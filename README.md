@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/raphael-ru%C3%ADz-208b1a16a/">Raphael Ruíz</a>
   </h1>
   <p align="center">
-    Estou iniciando como Desenvolvedor Front End. Sou Autodidata, estou buscando conhecimento em cursos online, rede social e videos de Dev 's colaboradores. Com meus 35 anos, resolvi buscar meu sonho, que é construir uma carreira com esse universo que eu sempre admirei e amei que é a Tecnologia. Espero poder somar e contribuir com meu esforço, dedicação, coletividade, muita criatividade, vontade de aprender coisas novas e superar qualquer desafio que vir pela frente.
+    Estou iniciando como Desenvolvedor Front End. Sou Autodidata, busco conhecimento em cursos online, rede social e videos de Devs colaboradores. Com meus 35 anos, resolvi buscar meu sonho, que é construir uma carreira com esse universo que eu sempre admirei e amei que é a Tecnologia. Quero somar e contribuir com meu esforço, dedicação, coletividade, muita criatividade, vontade de aprender coisas novas e superar qualquer desafio que vir pela frente.
   </p>
   <p align="center">
     Dica: Entregue o seu melhor independente da área que atua. Sua hora vai chegar 😉️!!!!
