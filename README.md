@@ -12,15 +12,27 @@
 </div>
 
 <h3 align="center">
-    Nível Intermediário :
+  <p>Nível Intermediário :</p>
+  <p>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <sub>HTML5</sub>
+  </p>
+  <p>
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <sub>CSS3</sub>
+  </p>
 </h3>
 
 <h3 align="center">
-    Nível Básico (Aprimorando Conhecimento):
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <p>Nível Básico (Aprimorando Conhecimento):</p>
+ <p>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <sub>REACT</sub>
+ </p>
+ <p>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <sub>JAVASCRIPT</sub>
+ </p>
 </h3>
 
 <div align="center">
