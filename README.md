@@ -24,7 +24,7 @@
 </h3>
 
 <h3 align="center">
-  <p>Nível Básico (Aprimorando Conhecimento):</p>
+  <p>(Aprimorando Conhecimento):</p>
  <p>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <sub>REACT</sub>
